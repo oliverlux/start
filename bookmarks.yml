@@ -1,12 +1,8 @@
-Example-Collection:
-  - Bucket:
-    - Link 1: https://example.com
-    - Link 2:
-      - https://example.com
-    - Link with notes:
-      - https://example.com
-      - This is a text note
-      - Link note: https://example.com 
+Berufsfachschule:
+  - Handreichungen:
+    - Datenschutzrichtlinien Microsoft 365: https://bldsg.sharepoint.com/teams/M365DatenschutzSekII/SitePages/M365-Datenschutz-Sek-II.aspx
+    - Handbuch Berufsfachschule:
+      - https://www.sg.ch/bildung-sport/berufsbildung/berufsfachschulen/prozesshandbuch.html)
 
 Collection with Links:
   - static-marks:
